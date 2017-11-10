@@ -1,3 +1,6 @@
+# large dataset used for training and testing classifier
+exploration_data_large/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
